@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP1P CTF - 2024.md",
+                "file": "TCP1P 2024 - CTF Writeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP1P CTF - 2024.md",
+                "file": "TCP1P 2024 - CTF Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP1P CTF - 2024.md",
+                "file": "TCP1P 2024 - CTF Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP1P CTF - 2024.md"
+                "file": "TCP1P 2024 - CTF Writeup.md"
               }
             }
           }
@@ -164,7 +164,7 @@
     "img/indo-nightclub-3.png",
     "img/indo-nightclub-2.png",
     "img/indo-nightclub-1.png",
-    "TCP1P CTF - 2024.md",
+    "TCP1P 2024 - CTF Writeup.md",
     "img/bandit-1.jpg",
     "img",
     "img/bandit-2.png"
