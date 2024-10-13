@@ -23,7 +23,7 @@ The flag `TCP1P{Malang, Indonesia. October 2019}`
 
 The flag is name of Man was close the place and the birth date example TCP1P{Abdul Risna Ardana, 14 July 1669}
 
-## Solution
+### Solution
 
 Upon opening the attachment.zip, the zip contain photo from nightclub. One of the photos contain a watermark for famous nightclub at that time **STADIUM**
 ![[indo-nightclub-1.png]]
