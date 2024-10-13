@@ -8,8 +8,7 @@ Here's my writeup for 5 out of 7 solved challenge.
 >An Jieyab as informant took a photo of a vehicle, can you find the location?
 
 The flag is name the location and date example TCP1P{Town, Coutry. Month Year}
-![[suspect.jpg]]
-
+![The suspect](/img/suspect.jpg)
 ### Solution
 
 Searching with google lens will showing a [website](https://platesmania.com/id/nomer24795105) for plate that contain the details
