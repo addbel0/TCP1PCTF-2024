@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "802f55f662dfc8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3fb5ed89171524d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802f55f662dfc8e9",
+  "active": "3fb5ed89171524d4",
   "lastOpenFiles": [
+    "ctf/tcp1p2024-ctf/writeup1.md",
     "img/address_below0.png",
     "img",
     "New folder",
@@ -167,7 +156,6 @@
     "README.md",
     "_includes/head.md",
     "_includes",
-    "ctf/tcp1p2024-ctf/writeup1.md",
     "_config.yml",
     "public/css/syntax.css",
     "public/css/poole.css",
@@ -191,7 +179,6 @@
     "ctf/tcp1p2024-ctf/img/indo-nightclub-3.png",
     "ctf/tcp1p2024-ctf/img/indo-nightclub-2.png",
     "ctf/tcp1p2024-ctf/img/indo-nightclub-1.png",
-    "ctf/tcp1p2024-ctf/img/bandit-2.png",
     "ctf/TCP1P 2024 - CTF Writeup.md",
     "TCP1P 2024 - CTF Writeup.md"
   ]
