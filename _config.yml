@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            addbel0 Blog
+description:      'This blog contain my writeup for CTF and Bug Bounty'
+url:              https://addbel0.github.io/adbell0.github.io/
+baseurl:          /
+
+author:
+  name:           'Prasnavira Satria'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+github:
+  repo:           https://github.com/addbel0/adbell0.github.io
