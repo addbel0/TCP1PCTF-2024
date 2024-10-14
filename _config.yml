@@ -3,12 +3,6 @@ title:            addbel0
 description:      'This blog contain my writeup for CTF and Bug Bounty'
 url:              https://addbel0.github.io
 baseurl:          /
-theme:            jekyll-theme-chirpy
-lang:             en
-timezone:         Asia/Jakarta
-
-github:
-  username:       addbel0
+theme:            jekyll-theme-minimal
 
 paginate:         5
-toc:              true
