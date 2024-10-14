@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/TCP1P 2024 - CTF Writeup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/TCP1P 2024 - CTF Writeup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/TCP1P 2024 - CTF Writeup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/TCP1P 2024 - CTF Writeup.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "a203087ff4f36c87",
   "lastOpenFiles": [
-    "README.md",
     "ctf/tcp1p2024-ctf/TCP1P 2024 - CTF Writeup.md",
+    "README.md",
     "img/investigator-1.png",
     "img/investigator-5.png",
     "img/investigator-4.png",
