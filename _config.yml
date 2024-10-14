@@ -4,6 +4,7 @@ description:      'This blog contain my writeup for CTF and Bug Bounty'
 url:              https://addbel0.github.io
 baseurl:          /
 theme:            jekyll-theme-minimal
+logo :            /img/address_below0.png
 
 paginate:         5
 toc:              true
