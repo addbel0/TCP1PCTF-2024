@@ -11,7 +11,7 @@ Here's my writeup for 5 out of 7 solved challenge.
 
 ## Bandit
 
->Author: **Jieyab89**
+>Author: **Jieyab89**  
 >An Jieyab as informant took a photo of a vehicle, can you find the location?
 
 The flag is name the location and date example TCP1P{Town, Coutry. Month Year}
@@ -25,7 +25,7 @@ The flag `TCP1P{Malang, Indonesia. October 2019}`
 
 ## Night Live at Indonesia
 
-> Author: **Jieyab89**
+> Author: **Jieyab89**  
 > Oeman is a nightlife maniac tourist in 2007 - 2010, he came back to Indonesia to enjoy the nightlife but the place was closed, what was the name of the place? And who was the person who closed the place?
 
 The flag is name of Man was close the place and the birth date example TCP1P{Abdul Risna Ardana, 14 July 1669}
@@ -44,7 +44,7 @@ The flag `TCP1P{Basuki Tjahaja Purnama, 29 June 1966}`
 
 ## The Investigator
 
->Author: **Jieyab89**
+>Author: **Jieyab89**  
 >Help Jieyab found the newspaper. When was this newspaper published?
 
 The flag name is date TCP1P{Date Month Year}
@@ -69,9 +69,9 @@ The flag is `TCP1P{17 December 1983}`
 
 ## The Pentagon
 
-> Author: **thelolna15**
-> A few days ago, I saw a funny post on a social media platform. As far as I remember, there are five accounts that frequently post funny and random content.
-> I only remember two names: Udin Kurniawan Jaeger and Paijo Abdul Uchiha. I recall that one of them uses a fake account. The humor in his posts is quite random, and I like it.
+> Author: **thelolna15**  
+> A few days ago, I saw a funny post on a social media platform. As far as I remember, there are five accounts that frequently post funny and random content.  
+> I only remember two names: Udin Kurniawan Jaeger and Paijo Abdul Uchiha. I recall that one of them uses a fake account. The humor in his posts is quite random, and I like it.  
 > I want to know the real name of the person using that second account because I want to connect with him on his main account. Please help me find his full real name.
 
 The flag is the full name
