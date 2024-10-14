@@ -6,3 +6,4 @@ baseurl:          /
 theme:            jekyll-theme-minimal
 
 paginate:         5
+toc:              true
