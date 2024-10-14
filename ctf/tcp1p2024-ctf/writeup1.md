@@ -142,7 +142,7 @@ Then I tried to reverse the sound by choosing `Effect -> Special -> Reverse` and
 
 After that I send the key to the Discord Bot, the Discord Bot replied with a youtube video link![The Pentagon](./img/pentagon-22.png)
 
-Clicking the link will pop up a **Rick Astley** video :angry: a channel called **Slamet Uzumaki**![The Pentagon](./img/pentagon-23.png)
+Clicking the link will pop up a **Rick Astley** video :((((((((( and a channel named **Slamet Uzumaki**![The Pentagon](./img/pentagon-23.png)
 
 And checking for the channel username will give us **SlametSetiawanUzumaki** ![The Pentagon](./img/pentagon-24.png)
 
