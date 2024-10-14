@@ -1,5 +1,5 @@
 # Setup
-title:            addbel0 Blog
+title:            addbel0
 description:      'This blog contain my writeup for CTF and Bug Bounty'
 url:              https://addbel0.github.io/adbell0.github.io/
 baseurl:          /
@@ -10,10 +10,3 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
-
-sidebar:
-  title: Blog
-  description: CTF and Bug Bounty
-
-github:
-  repo:           https://github.com/addbel0/adbell0.github.io
