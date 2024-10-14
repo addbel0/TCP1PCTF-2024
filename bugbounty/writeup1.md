@@ -6,6 +6,7 @@ tags:
   - application
   - security
 ---
+# Bypassing the flow to obtain OTP - $500
 
 Hi everyone 👋 this is my first writeup since I started bug bounty hunting in mid-2022. 
 **I know it's kinda late for a writeup**, but I want to try give something back to the community. 

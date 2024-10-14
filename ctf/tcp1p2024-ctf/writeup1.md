@@ -5,7 +5,7 @@ tags:
   - osint
   - cybersecurity
 ---
-# OSINT
+# TCP1P2024-CTF - OSINT
 
 Here's my writeup for 5 out of 7 solved challenge.
 
