@@ -78,3 +78,72 @@ The flag is the full name
 
 ### Solution
 
+Based on the challenge description,  **Udin Kurniawan Jaeger** and **Paijo Abdul Uchiha**, if I search with google will show result for **paij0uch1h4** on reddit and **ud1nwanj4eger** *(appear when the CTF still ongoing, but disappear when the CTF ends)*
+![The Pentagon](./img/pentagon-1.png)
+
+But checking the profile **paij0uch1h4** will show an error `This account has been suspended`, same result also happen with **ud1nwanj4eger**
+![The Pentagon](./img/pentagon-2.png)
+
+Searching a way for see the archive for suspended reddit account, bring me to https://ihsoyct.github.io/index.html 
+![The Pentagon](./img/pentagon-3.png)
+
+Now searching for both of username founded will only show one post from **ud1nwanj4eger**
+![The Pentagon](./img/pentagon-4.png)
+
+Then searching for the title on google will shows the subreddit![The Pentagon](./img/pentagon-5.png)
+
+Again checking the subreddit will not work, because it's already banned![The Pentagon](./img/pentagon-6.png)
+
+Now back to https://ihsoyct.github.io/index.html , I searched for the subreddit name and it's give one more name **pa1m3nbudg4r**, will note that name also![The Pentagon](./img/pentagon-7.png)
+
+So far i have the following username:
+- paij0uch1h4
+- ud1nwanj4eger
+- pa1m3nbudg4r
+
+I tried to search more interaction between the user on reddit but it's a dead end, and I decided to give it a try a tool called [sherlock](https://github.com/sherlock-project/sherlock). 
+[sherlock](https://github.com/sherlock-project/sherlock) are python based tool that works to hunt down social media accounts by username across social networks.
+
+Now runing [sherlock](https://github.com/sherlock-project/sherlock)for all username will give list of results
+- paij0uch1h4![The Pentagon](./img/pentagon-8.png)
+
+- ud1nwanj4eger![The Pentagon](./img/pentagon-9.png)
+
+- pa1m3nbudg4r![The Pentagon](./img/pentagon-10.png)
+
+Note that all of the result doesn't always a valid one, so checking one by one if the account existed in the platform still need to be done. And refer back to the post from reddit, my assumption the suspected user is like to post a meme. Consider a platform to post a meme lead me to check from **9gag** for **paij0uch14** and **ud1nwanj4eger** only.
+
+First for **paij0uch14**, seems we're on the right path![The Pentagon](./img/pentagon-11.png)
+
+Now for **ud1nwanj4eger** also give some result![The Pentagon](./img/pentagon-12.png)
+
+Now after checking around the post for both account, I found one post that having 14 comments and 4 upvote from **ud1nwanj4eger**![The Pentagon](./img/pentagon-13.png)
+
+Checking the comments show another username, **s1k3nts0**. **s1k3nts0** also commented to check funny post from the app with the photo logo and also a post ID `DAJjWLRzVpw` . I'm thinking for **Instagram**![The Pentagon](./img/pentagon-14.png)
+
+Now to use this post ID on Instagram without login, I need to find a random post then replace the post ID with `DAJjWLRzVpw`. For example here's the post from Zuck![The Pentagon](./img/pentagon-15.png)
+
+Then replace the post ID to `DAJjWLRzVpw` will redirect to another post from **xalamenderk3nts0**![The Pentagon](./img/pentagon-16.png)
+
+Checking the Instagram profiles shows a Discord Server![The Pentagon](./img/pentagon-17.png)
+
+Joining the Discord Server will shows a bot called **xalamenderk3nst0**![The Pentagon](./img/pentagon-18.png)
+
+I tried to chat with the bot but it's keep asking about a secret key and inform a hint _find the secret key in a post!_![The Pentagon](./img/pentagon-19.png)
+
+Looking back to the Instagram account, there's one reels post that have a weird sound at the end of the reels![The Pentagon](./img/pentagon-20.png)
+
+The sounds is very weird and it's like spells backwards / reverse. Because of that I decide to download the reels audio only using this [site](https://reelsave.app/audio) then open with [Audacity](https://www.audacityteam.org/) to manipulate the audio.
+
+Using Audacity I can see the weird sound looks like at timestamp 0:38 - 0:46
+![The Pentagon](./img/pentagon-21.png)
+
+Then I tried to reverse the sound by choosing `Effect -> Special -> Reverse` and try to play again multiple times. Finally from the audio I can get the key which is `TCP1P_TH3P3NT490N_1S4W3S0M3`
+
+After that I send the key to the Discord Bot, the Discord Bot replied with a youtube video link![The Pentagon](./img/pentagon-22.png)
+
+Clicking the link will pop up a **Rick Astley** video :angry: a channel called **Slamet Uzumaki**![The Pentagon](./img/pentagon-23.png)
+
+And checking for the channel username will give us **SlametSetiawanUzumaki** ![The Pentagon](./img/pentagon-24.png)
+
+So the flag is `TCP1P{Slamet Setiawan Uzumaki} `
