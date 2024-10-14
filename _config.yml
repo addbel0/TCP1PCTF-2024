@@ -1,12 +1,8 @@
 # Setup
 title:            addbel0
 description:      'This blog contain my writeup for CTF and Bug Bounty'
-url:              https://addbel0.github.io/adbell0.github.io/
+url:              /
 baseurl:          /
 theme:            jekyll-theme-minimal
-
-author:
-  name:           'Prasnavira Satria'
-  url:            https://twitter.com/mdo
 
 paginate:         5
