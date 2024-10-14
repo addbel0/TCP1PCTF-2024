@@ -5,7 +5,6 @@ This site contains my write-ups on Capture The Flag (CTF) challenges and Bug Bou
 ## Write-ups
 
 ### CTF
-- [CTF Write-up 1](ctf/tcp1p2024-ctf/Writeup.md)
+- [TCP1P CTF - 2024](ctf/tcp1p2024-ctf/Writeup.md)
 ### Bug Bounty
 - [Bug Bounty Case Study 1](bugbounty/case1.md)
-- [Bug Bounty Case Study 2](bugbounty/case2.md)
