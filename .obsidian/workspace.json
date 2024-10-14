@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbd3189c26979d3",
+        "id": "6556805b5b47988b",
         "type": "tabs",
         "children": [
           {
-            "id": "a203087ff4f36c87",
+            "id": "6320d98c646958b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,21 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a203087ff4f36c87",
+  "active": "6320d98c646958b4",
   "lastOpenFiles": [
     "ctf/tcp1p2024-ctf/Writeup.md",
+    "ctf/tcp1p2024-ctf/writeup1.md",
+    "bugbounty/writeup1.md",
     "README.md",
-    "img/investigator-1.png",
-    "img/investigator-5.png",
-    "img/investigator-4.png",
-    "img/investigator-3.png",
-    "img/investigator-2.png",
-    "img/indo-nightclub-3.png",
-    "img/indo-nightclub-2.png",
-    "img/indo-nightclub-1.png",
+    "bugbounty/case1.md",
+    "bugbounty",
+    "ctf/tcp1p2024-ctf/img/investigator-5.png",
+    "ctf/tcp1p2024-ctf/img/investigator-4.png",
+    "ctf/tcp1p2024-ctf/img/investigator-3.png",
+    "ctf/tcp1p2024-ctf/img/investigator-2.png",
+    "ctf/tcp1p2024-ctf/img/investigator-1.png",
+    "ctf/tcp1p2024-ctf/img/indo-nightclub-3.png",
+    "ctf/tcp1p2024-ctf/img/indo-nightclub-2.png",
+    "ctf/tcp1p2024-ctf/img/indo-nightclub-1.png",
+    "ctf/tcp1p2024-ctf/img/bandit-2.png",
+    "ctf/tcp1p2024-ctf/img/bandit-1.jpg",
+    "ctf/tcp1p2024-ctf/img",
+    "ctf/tcp1p2024-ctf",
+    "ctf/img",
+    "ctf/TCP1P 2024 - CTF Writeup.md",
     "TCP1P 2024 - CTF Writeup.md",
-    "img/bandit-1.jpg",
-    "img",
-    "img/bandit-2.png"
+    "img"
   ]
 }
