@@ -1,6 +1,6 @@
 # Blog
 
-This site contains my write-ups on Capture The Flag (CTF) challenges and Bug Bounty hunting.
+This site contains my write-ups on Capture The Flag (CTF) challenges and Bug Bounty
 
 ## Write-ups
 
