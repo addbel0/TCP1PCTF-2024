@@ -1,6 +1,6 @@
 # Setup
 title:            addbel0
-description:      'This blog contain my writeup for CTF and Bug Bounty'
+description:      'This blog contain my writeup for Bug Bounty and CTF'
 url:              https://addbel0.github.io
 baseurl:          /
 theme:            jekyll-theme-minimal
