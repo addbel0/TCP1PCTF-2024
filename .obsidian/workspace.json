@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctf/tcp1p2024-ctf/writeup1.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fb5ed89171524d4",
+  "active": "802f55f662dfc8e9",
   "lastOpenFiles": [
+    "ctf/tcp1p2024-ctf/writeup1.md",
     "README.md",
     "bugbounty/writeup1.md",
-    "ctf/tcp1p2024-ctf/writeup1.md",
     "_config.yml",
     "public/css/syntax.css",
     "public/css/poole.css",
