@@ -147,4 +147,4 @@ What I can learned from this?
 
 That's it from me! Thanks for reading, and see you in the next writeup!
 
-Cheers! :v:
+Cheers!
