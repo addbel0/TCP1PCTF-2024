@@ -5,6 +5,6 @@ This site contains my write-ups on Capture The Flag (CTF) challenges and Bug Bou
 ## Write-ups
 
 ### CTF
-- [TCP1P CTF - 2024](ctf/tcp1p2024-ctf/Writeup.md)
+- [TCP1P CTF - 2024](ctf/tcp1p2024-ctf/writeup1.md)
 ### Bug Bounty
-- [Bug Bounty Case Study 1](bugbounty/case1.md)
+- [Bypassing the flow to obtain OTP - $500](bugbounty/writeup1.md)
