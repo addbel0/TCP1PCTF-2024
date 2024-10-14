@@ -200,4 +200,4 @@ So the flag is `TCP1P{HALTE JPO SMP MUHAMMADIYAH 10 A}`
 
 ## Closing
 
-That's from me, really enjoyed this OSINT challenge. Kudos to TC1P and all the authors for making this CTF happen!
+That's from me, really enjoyed this OSINT challenge. Kudos to TC1P and all authors for making this CTF happen!
