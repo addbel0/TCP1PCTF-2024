@@ -78,7 +78,7 @@ The flag is the full name
 
 ### Solution
 
-Based on the challenge description,  **Udin Kurniawan Jaeger** and **Paijo Abdul Uchiha**, if I search with google will show result for **paij0uch1h4** on reddit and **ud1nwanj4eger** *(appear when the CTF still ongoing, but disappear when the CTF ends)*
+Based on the challenge description,  **Udin Kurniawan Jaeger** and **Paijo Abdul Uchiha**, if I search with google it will show result for **paij0uch1h4** on reddit and **ud1nwanj4eger** *(but this only appear when the CTF still ongoing and disappear when the CTF ends)*
 ![The Pentagon](./img/pentagon-1.png)
 
 But checking the profile **paij0uch1h4** will show an error `This account has been suspended`, same result also happen with **ud1nwanj4eger**
