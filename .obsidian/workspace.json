@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e367fdfb4c095ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ctf/tcp1p2024-ctf/Writeup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ctf/tcp1p2024-ctf/Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ctf/tcp1p2024-ctf/Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ctf/tcp1p2024-ctf/Writeup.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a203087ff4f36c87",
+  "active": "e367fdfb4c095ce6",
   "lastOpenFiles": [
+    "bugbounty/Bypassing the flow to obtain OTP - $500.md",
+    "ctf/tcp1p2024-ctf/Writeup.md",
+    "README.md",
+    "bugbounty",
     "ctf/tcp1p2024-ctf/img/investigator-5.png",
     "ctf/tcp1p2024-ctf/img/investigator-4.png",
     "ctf/tcp1p2024-ctf/img/investigator-3.png",
@@ -158,13 +175,10 @@
     "ctf/tcp1p2024-ctf/img/indo-nightclub-1.png",
     "ctf/tcp1p2024-ctf/img/bandit-2.png",
     "ctf/tcp1p2024-ctf/img/bandit-1.jpg",
-    "ctf/tcp1p2024-ctf/Writeup.md",
     "ctf/tcp1p2024-ctf/img",
     "ctf/tcp1p2024-ctf",
-    "ctf/img/investigator-5.png",
     "ctf/img",
     "ctf/TCP1P 2024 - CTF Writeup.md",
-    "README.md",
     "TCP1P 2024 - CTF Writeup.md",
     "img"
   ]
