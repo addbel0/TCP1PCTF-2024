@@ -1,11 +1,11 @@
 ---
-title: TCP1P2024-CTF
+title: TCP1P CTF 2024 - OSINT
 tags:
   - ctf
   - osint
   - cybersecurity
 ---
-# TCP1P2024-CTF - OSINT
+# TCP1P CTF 2024 - OSINT
 
 Here's my writeup for 5 out of 7 solved challenge.
 
