@@ -147,3 +147,57 @@ Clicking the link will pop up a **Rick Astley** video :angry: a channel called *
 And checking for the channel username will give us **SlametSetiawanUzumaki** ![The Pentagon](./img/pentagon-24.png)
 
 So the flag is `TCP1P{Slamet Setiawan Uzumaki} `
+
+## Lost Younger Sister
+
+>Author: **Jieyab89**
+>Help Jieyab find Violet, please read the attachment
+
+The flag is is name of the bus stop in the photo
+
+### Solution
+
+Checking the attachment.zip will show the following![Lost younger sister](./img/lostsister-1.png)
+
+Then I extracted all the files read the `Lost sister.pdf`![Lost younger sister](./img/lostsister-2.png)
+
+From the first section, there's a `*pro tips: Read carefully there is some clue on here........` and also the goals needed for helping Jieyab to find Violet:
+- Crack the password (kbdx)
+- Find and crack the zip (zip password) on the kdbx
+- Find the geolocation (the flag is name of the bus stop in the photo)
+
+Based from the goals, first I do the crack the password from kdbx, doing this with **keepass2john** to copy the hash from kdbx file doesn't work
+![Lost younger sister](./img/lostsister-3.png)
+
+The error `! .\Violet Password Manager.kdbx : File version '40000' is currently not supported!` says that this is KDBX version 4 which currently **keepass2john** can't read the format. And assuming from this output, I read again the pdf and refer back `*pro tips: Read carefully there is some clue on here........` so maybe there's something I can use for password here![Lost younger sister](./img/lostsister-4.png)
+
+After reading the pdf, Violet have a pet named `Ogipedro` and tried this as the password for kdbx file is worked!![Lost younger sister](./img/lostsister-5.png)
+
+And from the kdbx, there's also a icloud password when copied will shows `Ogipedro10022001` as the password. Now it's time to open the `icloud backup.zip` using this password![Lost younger sister](./img/lostsister-6.png)
+
+The zip file contain `find this location.jfif`![Lost younger sister](./img/lostsister-7.png)
+
+Looking at the objects from the photo i can safely assume the location is Palembang, South Sumatera![Lost younger sister](./img/lostsister-8.png)
+
+Because the all vehicle plate starts with `BG`
+![Lost younger sister](./img/lostsister-9.png)
+Then from the photo also give another information such as:
+1. The bridge above seems like `LRT` rails, I know that `Palembang` city have LRT
+2. A cross bridge and billboard
+3. There's a fruit shop but I can't read the completed name
+4. Also the bus stop sign, the name this bus stop are the flag
+
+Okay let's search the location base from the information above. Searching for the LRT rails will give us this rail path
+![Lost younger sister](./img/lostsister-10.png)
+
+Now after searching for a while for specific clue, I found the exact location from the photo after passing `Stasiun LRT Garuda Dempo` and this are the google maps link https://maps.app.goo.gl/gw2tb3m9TZs7puHf9 ![Lost younger sister](./img/lostsister-11.png)
+
+Looking around for the bus stop name will show `JPO SMP MUHAMMADIYAH 10 B`![Lost younger sister](./img/lostsister-12.png)
+
+But this is not the correct flag, and looking around for another bus stop I found `HALTE JPO SMP MUHAMMADIYAH 10 A` then trying to submit this as the flag will worked!![Lost younger sister](./img/lostsister-13.png)
+
+So the flag is `TCP1P{HALTE JPO SMP MUHAMMADIYAH 10 A}`
+
+## Closing
+
+That's from me, really enjoyed this OSINT challenge. Kudos to TC1P and all the authors for making this CTF happen!
