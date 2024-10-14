@@ -115,7 +115,7 @@ This request is responsible to send an OTP to the mobile phone number. Like the 
 
 **Surprisingly** the OTP code was sent to email and after that I can completed the registration process!
 
-![image alt](https://media1.tenor.com/m/9CJaHEmyKPAAAAAC/chris-pratt-andy-dwyer.gif=50%x)
+![image alt](https://media1.tenor.com/m/9CJaHEmyKPAAAAAC/chris-pratt-andy-dwyer.gif)
 
 I immediately recorded the evidence PoC then submitted a report to their HackerOne program page.
 
