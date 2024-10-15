@@ -35,7 +35,7 @@ The flag is name of Man was close the place and the birth date example TCP1P{Abd
 Saat membuka lampiran.zip, zip tersebut berisi foto dari klub malam. Salah satu foto berisi *watermark* untuk klub malam terkenal saat itu **STADIUM**
 ![Nightclub](./img/indo-nightclub-1.png)
 
-Mencari siapa yang menutup tempat itu mudah, karena club **STADIUM** adalah berita besar saat itu. Jawabannya adalah `Basuki Tjahaja Purnama`
+Mencari siapa yang menutup tempat itu mudah, karena klub malam **STADIUM** adalah berita besar saat itu. Jawabannya adalah `Basuki Tjahaja Purnama`
 ![Nightclub](./img/indo-nightclub-2.png)
 
 Meggunakan google untuk mencari tentang `Basuki Tjahaja Purnama` menunjukan tanggal lahirnya
