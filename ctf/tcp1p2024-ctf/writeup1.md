@@ -5,7 +5,7 @@ tags:
   - osint
   - cybersecurity
 ---
-# TCP1P CTF 2024 - OSINT
+# TCP1P CTF 2024 - OSINT [EN]
 
 Here's my writeup for 5 out of 7 solved challenge.
 
@@ -133,7 +133,7 @@ I tried to chat with the bot but it's keep asking about a secret key and inform 
 
 Looking back to the Instagram account, there's one reels post that have a weird sound at the end of the reels![The Pentagon](./img/pentagon-20.png)
 
-The sounds is very weird and it's like spells backwards / reverse. Because of that I decide to download the reels audio only using this [site](https://reelsave.app/audio) then open with [Audacity](https://www.audacityteam.org/) to manipulate the audio.
+The sounds is very weird and it's like spell backwards / reverse. Because of that I decide to download the reels audio only using this [site](https://reelsave.app/audio) then open with [Audacity](https://www.audacityteam.org/) to manipulate the audio.
 
 Using Audacity I can see the weird sound looks like at timestamp 0:38 - 0:46
 ![The Pentagon](./img/pentagon-21.png)
