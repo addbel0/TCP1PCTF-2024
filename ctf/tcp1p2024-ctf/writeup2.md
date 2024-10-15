@@ -18,7 +18,7 @@ The flag is name the location and date example TCP1P{Town, Coutry. Month Year}
 ![The suspect](./img/bandit-1.jpg)
 ### Solution
 
-Pencarian dengan lensa Google akan menampilkan [situs web](https://platesmania.com/id/nomer24795105) untuk plat yang berisi detailnya
+Pencarian dengan Google lens akan menampilkan [situs web](https://platesmania.com/id/nomer24795105) untuk plat yang berisi detailnya
 ![The suspect](./img/bandit-2.png)
 
 Sehingga flagnya adalah `TCP1P{Malang, Indonesia. October 2019}`

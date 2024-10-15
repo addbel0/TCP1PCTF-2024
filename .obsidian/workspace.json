@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ctf/tcp1p2024-ctf/writeup2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ctf/tcp1p2024-ctf/writeup2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ctf/tcp1p2024-ctf/writeup2.md"
               }
             }
           }
@@ -171,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bfb01b8d7f9d406",
+  "active": "90886df13e217979",
   "lastOpenFiles": [
     "ctf/tcp1p2024-ctf/writeup1.md",
     "ctf/tcp1p2024-ctf/writeup2.md",
