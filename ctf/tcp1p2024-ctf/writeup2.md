@@ -128,6 +128,7 @@ Kemudian ganti ID posting ke `DAJjWLRzVpw` akan mengarahkan kita ke posting lain
 Memeriksa profil Instagram menunjukkan Server Discord![The Pentagon](./img/pentagon-17.png)
 
 Bergabung dengan Server Discord akan menampilkan bot bernama **xalamenderk3nst0**
+
 ![The Pentagon](./img/pentagon-18.png)
 
 Saya coba mengobrol dengan bot tersebut namun ia terus menanyakan kunci rahasia dan memberi petunjuk _temukan kunci rahasia dalam sebuah postingan!_![The Pentagon](./img/pentagon-19.png)
