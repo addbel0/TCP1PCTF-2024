@@ -5,7 +5,7 @@ tags:
   - osint
   - cybersecurity
 ---
-# TCP1P CTF 2024 - OSINT [ID]
+# TCP1P CTF 2024 - OSINT [IDN]
 
 Ini adalah writeup untuk kategori OSINT, tim saya berhasil menyelesaikan 5 dari 7 *challenges* yang ada 
 
